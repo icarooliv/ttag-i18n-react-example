@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { t } from 'ttag';
+import Message from "./Message";  
 
 function App() {
   return (
@@ -16,7 +18,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          {t`Learn React`}
+          <Message />
         </a>
       </header>
     </div>

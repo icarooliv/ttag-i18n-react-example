@@ -1,0 +1,22 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "plural-forms": "nplurals = 2; plural = (n != 1);",
+    "language": "pt-BR",
+    "mime-version": "1.0",
+    "content-transfer-encoding": "8bit"
+  },
+  "translations": {
+    "": {
+      "": {
+        "msgid": "",
+        "msgstr": [
+          "Content-Type: text/plain; charset=utf-8\nPlural-Forms: nplurals = 2; plural = (n != 1);\nLanguage: pt-BR\nmime-version: 1.0\nContent-Transfer-Encoding: 8bit\n"
+        ]
+      },
+      "Learn React": { "msgid": "Learn React", "msgstr": ["Aprenda React!"] },
+      "Hello Brazil": { "msgid": "Hello Brazil", "msgstr": ["Olá Brasil!"] }
+    }
+  }
+}
